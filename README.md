@@ -1,5 +1,5 @@
 # Ambula-Java-Developer-Task-Solution-2024
-Task to perform :
+The task to perform :
                                                               Included User Location Problem
                                        Create a spring boot project using Gradle with the following requirements
                                              1. There will be 2 users (ADMIN, READER).
